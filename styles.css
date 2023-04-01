@@ -1,0 +1,105 @@
+* {
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.image-logo {
+    display: inline-block;
+    margin: 246px 0 0 121px;
+
+}
+
+section {
+
+    display: inline-block;
+    margin-left: 96px;
+    width: 493px;
+   
+
+}
+
+.link-header {
+
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 21px;
+    text-align: center;
+    letter-spacing: 0.875px;
+    color: #17233D;
+    margin-right: 32px;
+    cursor: pointer;
+}
+
+.botao-header {
+    width: 124px;
+    height: 51px;
+    border: none;
+    cursor: pointer;
+    background: #6FBF44;
+    border: 1px solid #4CB538;
+    border-radius: 6px;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: 1px;
+    color: #FFFFFF;
+
+}
+
+header {
+
+    margin-top: 47px;
+    margin-left: 42px;
+}
+
+h1 {
+
+
+    width: 582px;
+    height: 164px;
+    font-weight: 700;
+    font-size: 62px;
+    line-height: 82px;
+    letter-spacing: 0.596154px;
+    color: #161A49;
+    margin-bottom: 47px;
+
+
+}
+
+h2 {
+
+    font-weight: 500;
+    font-size: 58px;
+    line-height: 90px;
+    color: #515151;
+    margin-left: 96px;
+}
+
+p {
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 29px;
+    color: #848484;
+    margin-top: 32px;
+    margin-bottom: 55px;
+    
+}
+
+.botao-main {
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 27px;
+    letter-spacing: 1px;
+    color: #6FBF44;
+    cursor: pointer;
+    background: transparent;
+    border: none;
+   
+
+}
+
+
+@import url('https://fonts.googleapis.com/css2? family= Poppins:ital,wght@0,500;0,700;1,400 & display=swap');
